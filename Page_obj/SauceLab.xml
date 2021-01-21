@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="page object">
+
+<test name="Login page test">
+
+<classes>
+
+<class name="testCase.Test_Login_Page">
+
+</class>
+
+</classes>
+
+
+</test>
+
+
+
+</suite>
